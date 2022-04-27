@@ -25,7 +25,7 @@ function banner() {
                     <p className="para">{movie ? movie.overview : ""} </p>
                     <div className="btn-group">
                         <button className='btn active'><PlayArrowIcon className="icon" /> Play</button>
-                        <button className='btn'><AddIcon /> Add to playList</button>
+                        <button className='btn'><AddIcon /> Add to PlayList</button>
                     </div>
                 </div>
             </div>
